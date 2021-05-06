@@ -5,12 +5,13 @@
 <br />
 
 ## Introduction
-[ESRC](http://esrc.co.kr) provides the vision API and SDK for your app, enabling real-time recognizing heart response and emotions using a camera.
+[ESRC](http://esrc.co.kr) provides the vision API and SDK for your monile app, enabling real-time recognizing facial expression, heart response and emotions using a camera.
 
 <br />
 
 ## Installation
-To use our Android samples, you should first install [ESRC SDK: Android FullKit](https://github.com/esrc-sdk/android-esrc-sdk) 2.1.0 or higher on your system.
+~~To use our Android samples, you should first install [ESRC SDK: Android FullKit](https://github.com/esrc-sdk/android-esrc-sdk) 2.1.0 or higher on your system.~~
+To use our Android samples, you should first be received License Key by requesting by the email: esrc@esrc.co.kr.
 
 ## Requirements
 The minimum requirements to use our Android sample are:
